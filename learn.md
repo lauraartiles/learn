@@ -19,7 +19,7 @@ Trending frameworks on Github are always fun to poke through, see some different
 https://github.com/trending/objective-c
 
 Good book for Obj-C tips and tricks.
-https://dl.dropboxusercontent.com/u/79616315/The%20NSHipster%20Fake%20Book/The%20NSHipster%20Fake%20Book.pdf
+https://www.dropbox.com/sh/y4sjs9ksn15imge/AABo6gCJArC5X7EDvxlzK_xDa?dl=0
 
 How the Obj-C language actually works.
 https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html
