@@ -52,7 +52,7 @@ VIPER: https://www.objc.io/issues/13-architecture/viper/
 ## General CS
 Free online courses: https://github.com/prakhar1989/awesome-courses
 
-More free courses: https://qz.com/941768/here-are-250-ivy-league-courses-you-can-take-online-right-now-for-free/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits
+More free courses: https://qz.com/941768/here-are-250-ivy-league-courses-you-can-take-online-right-now-for-free/
 
 Khan Academy Computer Science: https://www.khanacademy.org/computing/computer-science
 
