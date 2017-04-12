@@ -1,4 +1,4 @@
-# Stuff I want to learn more about
+# Resources and stuff
 ## Dependency management
 
 - [Carthage](https://github.com/Carthage/Carthage])
@@ -54,11 +54,18 @@ Free online courses: https://github.com/prakhar1989/awesome-courses
 
 More free courses: https://qz.com/941768/here-are-250-ivy-league-courses-you-can-take-online-right-now-for-free/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits
 
+Khan Academy Computer Science: https://www.khanacademy.org/computing/computer-science
+
 Free programming books: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
 
+Network analysis: https://github.com/briatte/awesome-network-analysis
+
+### Algorithms
 Algorithms resources: https://github.com/tayllan/awesome-algorithms
 
-Network analysis: https://github.com/briatte/awesome-network-analysis
+Algorithms problems from Women Who Code NYC meetup: https://github.com/WomenWhoCodeNYC/Algorithms
+
+Algorithms and data structures for beginners and/or review: https://code.tutsplus.com/tutorials/algorithms-and-data-structures--cms-20437
 
 ## Design
 Sketch resources: https://github.com/diessica/awesome-sketch
