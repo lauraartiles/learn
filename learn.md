@@ -15,6 +15,11 @@ Brooklyn Swift meetup videos and slides: https://gist.github.com/marcdown/72266f
 ### Style
 [SwiftLint](https://github.com/realm/SwiftLint)
 
+### Architecture patterns
+Overview: https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52
+
+VIPER: https://www.objc.io/issues/13-architecture/viper/
+
 ### Reactive programming
 [RxSwift](https://github.com/ReactiveX/RxSwift)
 - RxSwift by Examples:
@@ -60,11 +65,6 @@ Stanford iOS Course (iOS 9): https://itunes.com/StanfordSwift
 
 Apple's [App Programming Guide](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)
 
-## Architecture patterns
-Overview: https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52
-
-VIPER: https://www.objc.io/issues/13-architecture/viper/
-
 ## General CS
 Free online courses: https://github.com/prakhar1989/awesome-courses
 
@@ -74,6 +74,8 @@ Khan Academy Computer Science: https://www.khanacademy.org/computing/computer-sc
 
 Free programming books: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
 
+**CS 50** Introduction to Computer Science (_Harvard University_): https://cs50.harvard.edu/
+
 Network analysis: https://github.com/briatte/awesome-network-analysis
 
 ### Algorithms
@@ -82,6 +84,11 @@ Algorithms resources: https://github.com/tayllan/awesome-algorithms
 Algorithms problems from Women Who Code NYC meetup: https://github.com/WomenWhoCodeNYC/Algorithms
 
 Algorithms and data structures for beginners and/or review: https://code.tutsplus.com/tutorials/algorithms-and-data-structures--cms-20437
+
+### Systems
+Introduction to Computer Systems (Carnegie Mellon): http://www.cs.cmu.edu/~213/index.html
+
+**CS 107** Computer Organization & Systems (Stanford): https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10
 
 ## Design
 Sketch resources: https://github.com/diessica/awesome-sketch
