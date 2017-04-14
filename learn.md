@@ -6,6 +6,8 @@
 List of resources: https://github.com/vsouza/awesome-ios
 
 Brooklyn Swift meetup videos and slides: https://gist.github.com/marcdown/72266f2e9731aa915bff
+
+Apple's Advanced Memory Management Programming Guide: https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html#//apple_ref/doc/uid/10000011-SW1
 ### Dependency management
 
 - [Carthage](https://github.com/Carthage/Carthage])
@@ -44,6 +46,10 @@ https://developer.apple.com/videos/play/wwdc2014/416/ - Building Modern Framewor
 ## Obj-C
 Overview:
 https://github.com/iwasrobbed/Objective-C-CheatSheet
+
+Cocoa Dev Central _Learn Objective C_: http://cocoadevcentral.com/d/learn_objectivec/
+
+Ry's Objective C Tutorial: http://rypress.com/tutorials/objective-c/index
 
 Trending frameworks on Github are always fun to poke through, see some different implementations
 https://github.com/trending/objective-c
@@ -92,3 +98,5 @@ Introduction to Computer Systems (Carnegie Mellon): http://www.cs.cmu.edu/~213/i
 
 ## Design
 Sketch resources: https://github.com/diessica/awesome-sketch
+
+Apple's Human Interface Guidelines: https://developer.apple.com/ios/human-interface-guidelines/
