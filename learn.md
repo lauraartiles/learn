@@ -5,6 +5,8 @@
 
 List of resources: https://github.com/vsouza/awesome-ios
 
+Codepath iOS Guides: http://guides.codepath.com/ios
+
 Brooklyn Swift meetup videos and slides: https://gist.github.com/marcdown/72266f2e9731aa915bff
 
 Apple's Advanced Memory Management Programming Guide: https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html#//apple_ref/doc/uid/10000011-SW1
@@ -67,9 +69,11 @@ Documentation: https://developer.apple.com/library/content/documentation/Swift/C
 
 Apple's list of resources: https://developer.apple.com/swift/resources/
 
+Apple's [App Programming Guide](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)
+
 Stanford iOS Course (iOS 9): https://itunes.com/StanfordSwift
 
-Apple's [App Programming Guide](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)
+Hacking With Swift (39 _free_ projects): https://www.hackingwithswift.com/read
 
 ## General CS
 Free online courses: https://github.com/prakhar1989/awesome-courses
