@@ -7,7 +7,7 @@ A Brief Introduction to GraphQL ([Video](https://www.youtube.com/watch?v=7RoyXJ_
 
 A GraphQL query is a string that is sent to server to be interpreted and fulfilled, which then returns JSON back to the client. (via https://code.facebook.com/posts/1691455094417024/graphql-a-data-query-language/)
 
-GraphQL allows you to bundle data requirements for your qury o it can be servedby one end point.
+GraphQL allows you to bundle data requirements for your query so it can be served by one end point.
 
 ### Query Document
 

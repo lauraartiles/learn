@@ -10,6 +10,8 @@ Codepath iOS Guides: http://guides.codepath.com/ios
 Brooklyn Swift meetup videos and slides: https://gist.github.com/marcdown/72266f2e9731aa915bff
 
 Apple's Advanced Memory Management Programming Guide: https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html#//apple_ref/doc/uid/10000011-SW1
+
+Apple's View Controller Programming Guide for iOS: https://developer.apple.com/library/content/featuredarticles/ViewControllerPGforiPhoneOS/
 ### Dependency management
 
 - [Carthage](https://github.com/Carthage/Carthage])
@@ -31,6 +33,16 @@ VIPER: https://www.objc.io/issues/13-architecture/viper/
   - http://www.thedroidsonroids.com/blog/ios/rxswift-by-examples-2-observable-and-the-bind/
   - http://www.thedroidsonroids.com/blog/ios/rxswift-examples-3-networking/
   - http://www.thedroidsonroids.com/blog/ios/rxswift-examples-4-multithreading/
+
+Why use it? https://news.realm.io/news/swift-summit-javier-soto-futures/
+
+Simple stuff: https://news.realm.io/news/altconf-ash-furrow-functional-reactive-swift/
+
+Cool project using Reactive Cocoa: https://github.com/kickstarter/ios-oss/tree/master/Kickstarter-iOS/
+
+Another project that uses Rx: https://github.com/artsy/eidolon
+
+Where to start the adventure: https://blog.autsoft.hu/rxswift-on-ios-where-to-start-the-adventure/
 
 
 ### WWDC videos
