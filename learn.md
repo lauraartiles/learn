@@ -87,6 +87,8 @@ Stanford iOS Course (iOS 9): https://itunes.com/StanfordSwift
 
 Hacking With Swift (39 _free_ projects): https://www.hackingwithswift.com/read
 
+Functional Swift Conference 2016: http://2017.funswiftconf.com/
+
 ## General CS
 Free online courses: https://github.com/prakhar1989/awesome-courses
 
