@@ -9,6 +9,9 @@ Codepath iOS Guides: http://guides.codepath.com/ios
 
 Brooklyn Swift meetup videos and slides: https://gist.github.com/marcdown/72266f2e9731aa915bff
 
+Apple's Getting Started with iOS Development:
+http://training.apple.com/courses/Getting_Started_with_iOS_Development/training.html
+
 Apple's Advanced Memory Management Programming Guide: https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html#//apple_ref/doc/uid/10000011-SW1
 
 Apple's View Controller Programming Guide for iOS: https://developer.apple.com/library/content/featuredarticles/ViewControllerPGforiPhoneOS/
@@ -43,6 +46,8 @@ Cool project using Reactive Cocoa: https://github.com/kickstarter/ios-oss/tree/m
 Another project that uses Rx: https://github.com/artsy/eidolon
 
 Where to start the adventure: https://blog.autsoft.hu/rxswift-on-ios-where-to-start-the-adventure/
+
+Reactive Programming in iOS with RxSwift: https://www.lynda.com/Swift-tutorials/Reactive-Programming-iOS-RxSwift/494421-2.html
 
 
 ### WWDC videos
