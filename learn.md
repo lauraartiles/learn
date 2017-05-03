@@ -9,6 +9,8 @@ Codepath iOS Guides: http://guides.codepath.com/ios
 
 Brooklyn Swift meetup videos and slides: https://gist.github.com/marcdown/72266f2e9731aa915bff
 
+Objc.io weekly swift talks: https://talk.objc.io/
+
 Apple's Getting Started with iOS Development:
 http://training.apple.com/courses/Getting_Started_with_iOS_Development/training.html
 
