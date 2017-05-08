@@ -10,7 +10,12 @@ Codepath iOS Guides: http://guides.codepath.com/ios
 Brooklyn Swift meetup videos and slides: https://gist.github.com/marcdown/72266f2e9731aa915bff
 
 Objc.io weekly swift talks: https://talk.objc.io/
+- $9/month or $90/year, but some talks are **free**
 
+NSScreencast weekly "bite-sized" videos: http://nsscreencast.com/episodes
+- $9/month or $100/year, but some talks are **free**
+
+### Apple Guides
 Apple's Getting Started with iOS Development:
 http://training.apple.com/courses/Getting_Started_with_iOS_Development/training.html
 
