@@ -89,6 +89,8 @@ https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCR
 ## Swift
 Overview: https://github.com/iwasrobbed/Swift-CheatSheet
 
+Swift Blog: https://developer.apple.com/swift/blog/
+
 Documentation: https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/
 
 Apple's list of resources: https://developer.apple.com/swift/resources/
@@ -97,7 +99,7 @@ Apple's [App Programming Guide](https://developer.apple.com/library/content/docu
 
 Stanford iOS Course (iOS 9): https://itunes.com/StanfordSwift
 
-Hacking With Swift (39 _free_ projects): https://www.hackingwithswift.com/read
+Hacking With Swift (39 ***free*** projects): https://www.hackingwithswift.com/read
 
 Functional Swift Conference 2016: http://2017.funswiftconf.com/
 
